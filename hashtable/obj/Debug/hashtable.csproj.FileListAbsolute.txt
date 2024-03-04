@@ -1,0 +1,14 @@
+C:\приложения\Работы\C#\hashtable\bin\Debug\hashtable.exe.config
+C:\приложения\Работы\C#\hashtable\bin\Debug\hashtable.exe
+C:\приложения\Работы\C#\hashtable\bin\Debug\hashtable.pdb
+C:\приложения\Работы\C#\hashtable\obj\Debug\hashtable.csproj.AssemblyReference.cache
+C:\приложения\Работы\C#\hashtable\obj\Debug\hashtable.csproj.CoreCompileInputs.cache
+C:\приложения\Работы\C#\hashtable\obj\Debug\hashtable.exe
+C:\приложения\Работы\C#\hashtable\obj\Debug\hashtable.pdb
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\bin\Debug\hashtable.exe.config
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\bin\Debug\hashtable.exe
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\bin\Debug\hashtable.pdb
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\obj\Debug\hashtable.csproj.AssemblyReference.cache
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\obj\Debug\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\obj\Debug\hashtable.exe
+C:\Users\1395367\Desktop\bup\hashtable\hashtable\obj\Debug\hashtable.pdb
